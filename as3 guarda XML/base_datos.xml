@@ -1,0 +1,19 @@
+﻿<?xml version = "1.0"?>
+
+<usuarios>
+
+	<usuario 
+		nombre="Felipe Evanx Pinot Garrido" 
+		user_id="1068366146" 
+		email="evanx@evanx.com" 
+		datosXML="1068366146.xml"
+	/>
+	
+	<usuario 
+		nombre="Julio Cofré González" 
+		user_id="675351351" 
+		email="julio@julio.cl"
+		datosXML="675351351.xml"
+	/>
+
+</usuarios>
